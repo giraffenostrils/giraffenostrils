@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-[![Solved.ac Profile]
-(http://mazassumnida.wtf/api/generate_badge?boj=dreamthre@naver.com)]
-(https://solved.ac/dreamthre@naver.com)
 
 
 ![mysql](
 https://img.shields.io/badge/mysql-4479A1.svg
 ?&style=for-the-badge&logo=mysql
 &logoColor=white)
-
 
 
 <!--
