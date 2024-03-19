@@ -2,7 +2,7 @@
 
 [![Solved.ac Profile]
 (http://mazassumnida.wtf/api/generate_badge?boj=dreamthre@naver.com)]
-(https://solved.ac/백준아이디)
+(https://solved.ac/dreamthre@naver.com)
 
 
 <!--
