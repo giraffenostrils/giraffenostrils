@@ -1,5 +1,3 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dreamthre@naver.com)](https://solved.ac/dreamthre)
-
 ---
 
 ### 💻 Tech Stack
